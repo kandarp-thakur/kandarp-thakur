@@ -1,4 +1,4 @@
-<img width="100%" height="50%" src="https://drive.google.com/file/d/1xJU7Qacvyly8hxDBxjJ5Ve1OjRvThcWU/view?usp=sharing">
+
 <h1 align="center">Hi 👋, I'm Kandarp Kumar Thakur</h1>
 <h3 align="center">Netwoking and Ethical Hacking student from India</h3>
 <img align="right"  width="20%"  alt="Coding" hight="300"  margin-bottom: 25px; src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
